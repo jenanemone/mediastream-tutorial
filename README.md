@@ -6,7 +6,7 @@ A tutorial on how to use [MediaStream API](https://developer.mozilla.org/en-US/d
 
 * [Node.js](http://nodejs.org/)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo
 2. Run `npm install`
